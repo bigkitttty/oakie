@@ -1,0 +1,9 @@
+C:\Users\caleb\source\repos\aike browser\aike browser\bin\Release\aike browser.exe.config
+C:\Users\caleb\source\repos\aike browser\aike browser\bin\Release\aike browser.exe
+C:\Users\caleb\source\repos\aike browser\aike browser\bin\Release\aike browser.pdb
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Release\aike_browser.Form1.resources
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Release\aike_browser.Properties.Resources.resources
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Release\aike browser.csproj.GenerateResource.Cache
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Release\aike browser.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Release\aike browser.exe
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Release\aike browser.pdb

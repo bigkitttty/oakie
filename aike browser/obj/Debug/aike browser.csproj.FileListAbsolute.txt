@@ -1,0 +1,13 @@
+C:\Users\caleb\source\repos\aike browser\aike browser\bin\Debug\aike browser.exe.config
+C:\Users\caleb\source\repos\aike browser\aike browser\bin\Debug\aike browser.exe
+C:\Users\caleb\source\repos\aike browser\aike browser\bin\Debug\aike browser.pdb
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike_browser.Form1.resources
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike_browser.Properties.Resources.resources
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike browser.csproj.GenerateResource.Cache
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike browser.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike browser.exe
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike browser.pdb
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike browser.csprojResolveAssemblyReference.cache
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike_browser.aike_ettings.resources
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike_browser.aike_history.resources
+C:\Users\caleb\source\repos\aike browser\aike browser\obj\Debug\aike_browser.aike_bookmrks.resources
